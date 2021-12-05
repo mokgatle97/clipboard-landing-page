@@ -1,0 +1,145 @@
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin: 0rem;
+}
+header{
+    background-image: url("images/bg-header-desktop.png");
+    align-items: center;
+    text-align: center;
+}
+.logo{
+    margin-top: 8rem;
+}
+h1, h2, h4{
+    font-weight: 600;
+    color: hsl(210, 10%, 33%)
+}
+p{
+    font-weight: 400;
+    color:hsl(201, 11%, 66%);
+    font-size: 18px;
+}
+
+.clipboard{
+    text-align: center;
+    margin-left: 24.5rem;
+    margin-right: 24.5rem;
+}
+.download{
+    text-align: center;
+    margin-top: 2rem;
+}
+.ios{
+    border-style: none;
+    border-radius: 20px;
+    background-color: hsl(171, 66%, 44%);
+    padding: .7rem;
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin-right: .3rem;
+    font-size: 18px;
+}
+.mac{
+    border-style: none;
+    border-radius: 20px;
+    background-color: hsl(233, 100%, 69%);
+    padding: .7rem;
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin-left: .3rem;
+    font-size: 18px;
+}
+.track{
+    text-align:center;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+.track p{
+    margin-right: 21.5rem;
+    margin-left: 21.5rem;
+}
+.coolstuff{
+    display: flex;
+    margin: 0rem;
+    margin-bottom: 10rem;
+}
+.info{
+    margin-top: 8rem;
+    margin-left: 6rem;
+    margin-right: 7rem;
+}
+.access{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+.access p{
+    margin-left: 21.5rem;
+    margin-right: 21.5rem;
+    margin-bottom: 8rem;
+}
+.supercharge{
+    text-align: center;
+}
+.features{
+    margin: 4rem 6rem 4rem 6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.feat{
+    align-items: center;
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.companies{
+    display: flex;
+    justify-content: space-around;
+    margin: 8rem 0rem 8rem 0rem;
+}
+.companies img{
+    height: 35px;
+}
+.available{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 8rem;
+}
+.available p{
+    margin-bottom: 4rem;
+    margin-left: 21.5rem;
+    margin-right: 21.5rem;
+}
+footer{
+    background-color: whitesmoke;
+    margin: 0rem;
+    display: flex;
+}
+
+footer img{
+    height: 50px;
+    margin-left: 10rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.faq{
+    margin-right: 5rem;
+    white-space: nowrap;
+}
+.privacy{
+    margin-right: 5rem;
+    white-space: nowrap;
+}
+.install{
+    margin-right: 5rem;
+    white-space: nowrap;
+}
+ ul {
+    list-style-type: none;
+    display: flex;
+    margin-left: 8rem;
+}
+ul li{
+    margin-top: 1.5rem;
+}
